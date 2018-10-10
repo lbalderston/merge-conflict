@@ -7,3 +7,10 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+
+# Technology 
+- skill: Software Automation
+  description: Able to automate server setup and software installation via scripting
+- skill: Software Development
+  desription: Able to code new capabilities and features using programming languages (java, bash, ruby on rails)
+  
